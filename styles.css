@@ -1,0 +1,12 @@
+section {
+	margin: auto;
+	width: 90%;
+	text-align: justify;
+	padding: 21px 0;
+}
+
+.menu {
+	background-color: gray;
+	padding: 12px;
+	border-radius: 12px;
+}
